@@ -1,4 +1,3 @@
-fabrycio30
 ## Fabrício Almeida do Carmo
 ***
 - 👋 Hi, I’m  @fabrycio30
