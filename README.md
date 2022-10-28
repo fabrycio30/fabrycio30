@@ -9,7 +9,7 @@
     - Machine Learning Algorithms
     - Deep Neural Networks
   * Python
-    - Numpy, Pandas, Matplotlib, PyTorch 
+    - Numpy, Pandas, Matplotlib, Scikit-learn, PyTorch, Flask 
   * Java 
     - Spring
 
